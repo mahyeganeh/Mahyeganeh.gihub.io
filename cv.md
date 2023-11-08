@@ -1,15 +1,15 @@
 ---
 layout: single
 author_profile: true
-permalink: /cv/
-title: Resume
+permalink: //
+title: hello
 tags: [resume, cv]
 modified: 4-14-2019
 comments: false
 ---
 
 
-# ekhteshash
+# 
 
 werwe
 rwe
@@ -17,8 +17,8 @@ rwe
 ## Tehran
 lsdfksd
 
-### Azadi
-### Enghelab
+### Tavanir
+### Yousef Abad
 
 - mored 1
 - mored 2
