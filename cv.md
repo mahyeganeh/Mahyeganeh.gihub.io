@@ -1,15 +1,15 @@
 ---
 layout: single
 author_profile: true
-permalink: //
-title: hello
+permalink: /cv/
+title: Resume
 tags: [resume, cv]
 modified: 4-14-2019
 comments: false
 ---
 
 
-# 
+# Hi
 
 werwe
 rwe
@@ -17,8 +17,8 @@ rwe
 ## Tehran
 lsdfksd
 
-### Tavanir
 ### Yousef Abad
+### Tavanir
 
 - mored 1
 - mored 2
