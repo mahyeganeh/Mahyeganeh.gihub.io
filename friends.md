@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+* Setayesh Baghayi
+* Mobina Hoshiari
+* Mohadese SeyedAli
 
 
 
