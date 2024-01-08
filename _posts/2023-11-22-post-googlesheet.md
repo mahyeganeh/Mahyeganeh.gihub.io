@@ -1,11 +1,11 @@
 ---
 layout: posts
-title: Semestrs
+title: Current and Next Semester Score Prediction 
 ---
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="semestres" content="width=device-width, initial-scale=1.0">
+    <meta name="Current and Next Semester Score Prediction" content="width=device-width, initial-scale=1.0">
     <title>Google Sheet on GitHub</title>
 </head>
 <body>
