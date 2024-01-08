@@ -3,7 +3,7 @@ layout: posts
 title: کد درخت
 ---
 
-## توضیحات کد درخت 
+##
 
 <html>
 <head>
