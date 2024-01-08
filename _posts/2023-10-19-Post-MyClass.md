@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: My Travel Blog Project 
+title: My Movie Project 
 ---
-## Travel Blog
+## Movie Django Project
 <html>
 <body>
     <div>
