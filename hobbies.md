@@ -9,6 +9,7 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [Painting](http://www.painting.com/)
+* [Gaming](http://www.steam.com/)
 
 
