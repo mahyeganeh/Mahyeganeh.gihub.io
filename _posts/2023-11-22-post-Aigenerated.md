@@ -61,5 +61,26 @@ title: AI Photo Generator (Bing)
     <li><img src="../assets/images/17.jpg" alt="Result Image 17"></li>
 </ul>
 
+<p dir="rtl" style="text-align: right;">
+در اینجا از هوش مصنوعی خواستم که یک کامپیوتر در حال راه رفتن و با صورت انسانی ترسیم کند . 
+ </p>
+<ul>
+    <li><img src="../assets/images/18.jpg" alt="Result Image 14"></li>
+    <li><img src="../assets/images/19.jpg" alt="Result Image 15"></li>
+    <li><img src="../assets/images/20.jpg" alt="Result Image 16"></li>
+    <li><img src="../assets/images/21.jpg" alt="Result Image 17"></li>
+</ul>
+<p dir="rtl" style="text-align: right;">
+در اینجا نیز از هوش مصنوعی خواستم تا یک کوالا در حال کد زدن ترسیم کند که نتیجش به این صورت شد:
+ </p>
+<ul>
+    <li><img src="../assets/images/22.jpg" alt="Result Image 14"></li>
+    <li><img src="../assets/images/23.jpg" alt="Result Image 15"></li>
+    <li><img src="../assets/images/24.jpg" alt="Result Image 16"></li>
+    <li><img src="../assets/images/25.jpg" alt="Result Image 17"></li>
+</ul>
+
+
+
 </body>
 </html>
