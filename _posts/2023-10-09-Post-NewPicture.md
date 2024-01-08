@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: کد مثلث
+title: Triangle Fractal (python)
 ---
 
 ## توضیحات کد مثلث

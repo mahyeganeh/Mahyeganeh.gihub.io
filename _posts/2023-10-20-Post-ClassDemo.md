@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: کد درخت
+title: Tree Fractal (python)
 ---
 
-##
+## Tree Fractal
 
 <html>
 <head>
