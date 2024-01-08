@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:کد درخت 
+title: کد درخت 
 ---
 
 ## رسم درخت با استفاده از کتاب خانه ترتل 
@@ -12,8 +12,8 @@ title:کد درخت
 سرعت رسم، رنگ پس‌زمینه و موقعیت اولیه قلم نیز به صورتی که نیاز داریم تنظیم می‌شوند و در نهایت، تابع درخت با پارامترهای اولیه فراخوانی می‌شود تا رسم درخت آغاز شود.
  
  ## کد درخت 
- 
- import turtle
+
+import turtle
 
 def tree(d, r, n):
     if d < 20 or r < 6:
@@ -60,7 +60,7 @@ turtle.mainloop()
 
 
 
-![alt text]("C:\git\personal_website_template\assets\images\Screenshot 2024-01-08 010507.png" "Tree Fractal")
+![C:\git\personal_website_template\assets\images\Screenshot 2024-01-08 010507.png]("C:\git\personal_website_template\assets\images\Screenshot 2024-01-08 010507.png" "Tree Fractal")
 
 ---
 **Test**: This is atest
